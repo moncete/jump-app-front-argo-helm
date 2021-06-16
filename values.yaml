@@ -1,6 +1,6 @@
 project: san03-jump-app
 pod:
-  replicas: 1
+  replicas: 5
   port: 3000
   protocol: TCP
 service:
